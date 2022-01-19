@@ -115,3 +115,6 @@ I’ve conducted a Tableau Blend Relationship between the raw arrest data and ad
 •	Estimated Arrests per Officer (Total Arrests per County/Total Officers per County)
 
 ![TEXAS_NIBRS_2017to2020](https://user-images.githubusercontent.com/88041368/149702817-edf4556c-0ec3-44a1-9eb7-0eee3d4441fd.jpg)
+
+# Group Slides
+https://docs.google.com/presentation/d/1QLSF3Q7AoVnUGJ1b3vpzSRCFdUsbW5BrnfG1aPIo6k0/edit#slide=id.g10d9a689256_0_80
