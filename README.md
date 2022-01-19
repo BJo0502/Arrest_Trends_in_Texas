@@ -118,3 +118,15 @@ I’ve conducted a Tableau Blend Relationship between the raw arrest data and ad
 
 # Group Slides
 https://docs.google.com/presentation/d/1QLSF3Q7AoVnUGJ1b3vpzSRCFdUsbW5BrnfG1aPIo6k0/edit#slide=id.g10d9a689256_0_80
+
+### HTML template was modified to meet the needs of this project; original download source and credits below:
+Template Name    : DevFolio - Developer Portfolio Template
+
+Template Link    : https://htmlcodex.com/developer-portfolio-template
+
+Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+Template Author  : HTML Codex
+Author Website   : https://htmlcodex.com
+
+About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
