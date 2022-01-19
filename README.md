@@ -119,6 +119,16 @@ I’ve conducted a Tableau Blend Relationship between the raw arrest data and ad
 # Group Slides
 https://docs.google.com/presentation/d/1QLSF3Q7AoVnUGJ1b3vpzSRCFdUsbW5BrnfG1aPIo6k0/edit#slide=id.g10d9a689256_0_80
 
+# Segment 3 Dashboard and Website Design
+
+![Main](https://user-images.githubusercontent.com/88041368/150041629-1b109cf2-3702-45ee-a9fa-d2a935c2cdc3.JPG)
+![Question](https://user-images.githubusercontent.com/88041368/150041630-b525ba13-fb96-495f-b544-abda3661c7b4.JPG)
+![DataExploration](https://user-images.githubusercontent.com/88041368/150041625-67518f2d-7d4a-485c-bc34-8081f56ca8cd.JPG)
+![DataViz](https://user-images.githubusercontent.com/88041368/150041627-1576d19d-9aec-40d4-a288-6074d1487366.JPG)
+![DatabaseDesign](https://user-images.githubusercontent.com/88041368/150041623-abf0179a-afdf-482f-b7f2-423078c46c2d.JPG)
+![Workflow](https://user-images.githubusercontent.com/88041368/150041620-b88bdb96-13c8-46a4-a54f-76d06cefca71.JPG)
+![Team](https://user-images.githubusercontent.com/88041368/150041619-59b58db2-1f8b-4580-a75f-4bfa04dd6158.JPG)
+
 ### HTML template was modified to meet the needs of this project; original download source and credits below:
 Template Name    : DevFolio - Developer Portfolio Template
 
